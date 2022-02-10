@@ -5,7 +5,7 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-This is a website for www.galaxyx.zil
+This is a website for www.galaxyx.zil and www.galaxyx.io
 
 - Hosted on decentralized domain
 - mirror of galaxyx.io
